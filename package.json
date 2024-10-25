@@ -1,0 +1,20 @@
+{
+  "name": "@thelocalgodd/isprime",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "prime",
+    "numbers",
+    "isprime"
+  ],
+  "author": "thelocalgodd",
+  "license": "MIT",
+  "description": "A simple package to check if a number is prime.",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
