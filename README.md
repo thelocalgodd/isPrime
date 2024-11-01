@@ -1,3 +1,8 @@
+![NPM Downloads](https://img.shields.io/npm/dw/%40thelocalgodd%2Fisprime)
+
+![NPM Version](https://img.shields.io/npm/v/%40thelocalgodd%2Fisprime)
+
+
 # Prime Number Checker
 
 A simple package to check if a number is prime.
