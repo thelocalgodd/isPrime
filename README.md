@@ -10,7 +10,7 @@ A simple package to check if a number is prime.
 ### installation
 
 ```bash
-npm install @thelocalgodd/isprime
+npm i @thelocalgodd/isprime
 ```
 
 ### usage
