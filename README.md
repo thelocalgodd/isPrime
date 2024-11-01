@@ -10,13 +10,13 @@ A simple package to check if a number is prime.
 ### installation
 
 ```bash
-npm install thelocalgodd/isprime
+npm install @thelocalgodd/isprime
 ```
 
 ### usage
 
 ```javascript
-const { isPrime } = require('thelocalgodd/isprime');
+const { isPrime } = require('@thelocalgodd/isprime');
 
 console.log(isPrime(17)); // true
 console.log(isPrime(4));  // false
